@@ -13,7 +13,7 @@ const config: CapacitorConfig = {
         "profile",
         "email"
       ],
-      "serverClientId": "66853167924-97ad2ffpbg92rkob27o91qh6odffc29d.apps.googleusercontent.com",
+      "serverClientId": "REPLACEME.apps.googleusercontent.com",
       "forceCodeForRefreshToken": true
     }
   }
